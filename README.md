@@ -1,4 +1,4 @@
-# ragbase
+# rag-foundry
 
 An opinionated, production-minded core library for Retrieval-Augmented Generation (RAG) systems.
 
