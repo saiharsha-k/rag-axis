@@ -1,5 +1,5 @@
-import rag_foundry
-print(rag_foundry.__version__)
+import rag_axis
+print(rag_axis.__version__)
 
 
 def test_placeholder():
