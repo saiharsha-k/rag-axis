@@ -11,7 +11,7 @@
     "light": "#60A5FA",
     "dark": "#1D4ED8"
   },
-  "theme": "prism",
+  "theme": "sequoia",
   "background": {
     "style": "gradient"
   },
