@@ -32,67 +32,62 @@
       "github": "https://github.com/saiharsha-k/rag-axis"
     }
   },
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "introduction/what-is-rag-axis",
-        "introduction/why-not-langchain",
-        "introduction/quickstart"
-      ]
-    },
-    {
-      "group": "Concepts",
-      "pages": [
-        "concepts/rag-system-layers",
-        "concepts/failure-modes",
-        "concepts/cost-accountability",
-        "concepts/pydantic-boundaries"
-      ]
-    },
-    {
-      "group": "Architecture",
-      "pages": [
-        "architecture/design-principles",
-        "architecture/invariants",
-        "architecture/non-goals",
-        "architecture/package-map"
-      ]
-    },
-    {
-      "group": "Packages",
-      "pages": [
-        "packages/core",
-        "packages/adapters",
-        "packages/ingestion",
-        "packages/chunking",
-        "packages/embedding",
-        "packages/retrieval",
-        "packages/reranking",
-        "packages/context",
-        "packages/generation",
-        "packages/guards",
-        "packages/cache",
-        "packages/telemetry",
-        "packages/bench",
-        "packages/corpus",
-        "packages/knowledge"
-      ]
-    },
-    {
-      "group": "Contributing",
-      "pages": [
-        "contributing/setup",
-        "contributing/invariants",
-        "contributing/release"
-      ]
-    }
-  ],
-  "anchors": [
-    {
-      "name": "GitHub",
-      "icon": "github",
-      "url": "https://github.com/saiharsha-k/rag-axis"
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "introduction/what-is-rag-axis",
+          "introduction/why-not-langchain",
+          "introduction/quickstart"
+        ]
+      },
+      {
+        "group": "Concepts",
+        "pages": [
+          "concepts/rag-system-layers",
+          "concepts/failure-modes",
+          "concepts/cost-accountability",
+          "concepts/pydantic-boundaries"
+        ]
+      },
+      {
+        "group": "Architecture",
+        "pages": [
+          "architecture/design-principles",
+          "architecture/invariants",
+          "architecture/non-goals",
+          "architecture/package-map"
+        ]
+      },
+      {
+        "group": "Packages",
+        "pages": [
+          "packages/core",
+          "packages/adapters",
+          "packages/ingestion",
+          "packages/chunking",
+          "packages/embedding",
+          "packages/retrieval",
+          "packages/reranking",
+          "packages/context",
+          "packages/generation",
+          "packages/guards",
+          "packages/cache",
+          "packages/telemetry",
+          "packages/bench",
+          "packages/corpus",
+          "packages/knowledge"
+        ]
+      },
+      {
+        "group": "Contributing",
+        "pages": [
+          "contributing/setup",
+          "contributing/invariants",
+          "contributing/release"
+        ]
+      }
+    ]
+  }
 }
