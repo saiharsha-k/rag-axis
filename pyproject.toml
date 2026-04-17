@@ -7,7 +7,7 @@ name = "rag-axis"
 version = "0.0.1"
 description = "Opinionated, production-minded core library for RAG systems"
 readme = "README.md"
-license = { text = "Apache-2.0" }
+license = { text = "MIT License" }
 authors = [
   { name = "Sai Harsha Kondaveeti" }
 ]
