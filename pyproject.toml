@@ -9,7 +9,7 @@ description = "Production contract layer for RAG systems — typed, explicit, ob
 readme = "README.md"
 license = { text = "MIT" }
 authors = [
-  { name = "Sai Harsha Kondaveeti", email = "harsha@datavalley.ai" }
+  { name = "Sai Harsha Kondaveeti", email = "hello@saiharshakondaveeti.com" }
 ]
 requires-python = ">=3.11"
 classifiers = [
